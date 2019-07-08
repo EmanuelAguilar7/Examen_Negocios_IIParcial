@@ -1,0 +1,15 @@
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar.csprojAssemblyReference.cache
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\MainWindow.g.cs
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\App.g.cs
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar_MarkupCompile.cache
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar_MarkupCompile.lref
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\bin\Debug\Examen_Emanuel_Aguilar.exe.config
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\bin\Debug\Examen_Emanuel_Aguilar.exe
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\bin\Debug\Examen_Emanuel_Aguilar.pdb
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\MainWindow.baml
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar.g.resources
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar.Properties.Resources.resources
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar.csproj.GenerateResource.cache
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar.exe
+C:\Users\Emanuel Aguilar\Desktop\Examen_Emanuel_Aguilar\Examen_Emanuel_Aguilar\obj\Debug\Examen_Emanuel_Aguilar.pdb
